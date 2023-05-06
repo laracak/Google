@@ -1,0 +1,46 @@
+.first {
+
+     justify-content: center;
+     text-align: center;
+     background-color: rgb(243, 239, 239);
+     margin-left: 2%;
+     margin-right: 2%;
+}
+
+#search {
+     margin-left: 5%;
+     width: 90%;
+
+}
+
+.box {
+     margin-top: 3px;
+     margin-left: 2%;
+     width: 33%;
+     padding: 20px;
+     background-color: rgb(126, 229, 255);
+     float: left;
+}
+
+.second {
+     background-color: rgb(126, 226, 226);
+     margin: 3px;
+     padding: 11px;
+     width: 16%;
+     float: left;
+}
+
+.third {
+     background-color: rgb(107, 184, 184);
+     width: 41%;
+     margin-top: 3px;
+     padding: 7px;
+     padding-bottom: 9px;
+     float: left;
+}
+
+.fourth {
+     background-color: white;
+     margin-top: 5%;
+     padding: 5%;
+}
